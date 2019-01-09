@@ -1,4 +1,4 @@
-#!/usr/bin/env python testing
+#!/usr/bin/env python testing hello
 # The above is needed to tell the terminal in which environment to run the code.
 from Exscript.util.start import quickstart, start
 from Exscript import Account, Host
