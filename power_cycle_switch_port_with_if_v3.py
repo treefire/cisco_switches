@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python testing
 # The above is needed to tell the terminal in which environment to run the code.
 from Exscript.util.start import quickstart, start
 from Exscript import Account, Host
@@ -142,6 +142,3 @@ def second_option(number):
 get_switch_ip()
 #get_credentials()
 run_job() #runs chooser job
-
-
-
